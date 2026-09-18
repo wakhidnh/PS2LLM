@@ -8,7 +8,7 @@ PS2LLM is an experimental open-source homebrew engine designed to run quantized 
 
 ---
 
-## ☕ Support the Project
+## ☕ Support me if you like with Ko-Fi
 
 If you enjoy seeing language models run on vintage console hardware and want to support ongoing homebrew experimentation:
 
