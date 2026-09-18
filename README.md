@@ -1,3 +1,5 @@
+For internal HDD please run it from __system partition 
+
 # PS2LLM — Local LLM Inference Engine on PlayStation 2
 
 PS2LLM is an experimental open-source homebrew engine designed to run quantized language models natively on the Sony PlayStation 2's Emotion Engine (R5900) hardware using a streaming forward-pass architecture.
